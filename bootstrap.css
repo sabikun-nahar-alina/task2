@@ -1,0 +1,34 @@
+.test{
+    background-color: blueviolet;
+}
+.test1{
+    margin-right: 40%;
+    width: 350px;
+    background-color: blueviolet !important;
+}
+.body{
+    height: 700px;
+    background-image: linear-gradient( to right, rgb(190, 229, 245),rgb(240, 240, 197),rgb(255, 219, 225));
+
+}
+.img{
+    height: 200px;
+    width: 200px;
+
+
+}
+.btn1{
+    background-color: rgb(245, 245, 108);
+    
+}
+.div{
+
+    margin: 90px;
+    margin-bottom: 120px;
+   
+}
+
+.body2{
+    display: flex;
+    justify-content: space-around;
+}
